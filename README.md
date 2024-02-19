@@ -21,3 +21,7 @@ The code was initially used to analyze all annotations, without any distinctions
 Reliability checks and subsequent analyses are available at this [link](https://iris.univr.it/handle/11562/1098826). Additional open-access materials and articles will be published soon. 
 
 For further inquiries, please feel free to contact me on GitHub or via email: elena.mattei@unive.it
+
+### Credits 
+
+The author thanks Prof. John Bateman for his invaluable expertise and support in the conduction of the statistical analyses in R, including the implementations of appropriate reliability measures. All errors, omissions or misrepresentations are solely the author's responsibility.
